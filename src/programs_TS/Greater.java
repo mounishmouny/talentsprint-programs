@@ -20,7 +20,7 @@ public class Greater {
 		}
 		else
 			System.out.println("C is greater");
-			
+			System.out.println("adding from github");
 	}
 	
 
